@@ -1,6 +1,6 @@
 ---
 title: "R Markdown Demo"
-author: "Yihui Xie"
+author: 稻年
 date: '2020-11-10'
 slug: r-markdown-demo
 features: [+sticky_menu]
@@ -11,6 +11,8 @@ bibliography: packages.bib
 ```{r, setup, include=FALSE}
 knitr::opts_chunk$set(fig.retina = 2, dev = if (xfun::loadable('svglite')) 'svglite' else 'svg')
 ```
+
+的
 
 ## Floats
 

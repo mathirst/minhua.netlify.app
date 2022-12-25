@@ -1,6 +1,16 @@
+- name: "dn"
+  bio: >
+    稻年，数学系博士生，研究兴趣为数论、动力系统。
+    喜欢一切有助于认识世界的事物。
+
+# - name: "Lucius Annaeus Seneca"
+#   bio: >
+#     Lucius Annaeus Seneca was a Hispano-Roman Stoic philosopher, statesman, dramatist,
+#     and—in one work—satirist from the Silver Age of Latin literature.
+
 - name: "Yihui Xie"
   bio: >
-    Yihui Xie (https://yihui.org) is a software engineer at [RStudio](https://www.rstudio.com).
+    Yihui Xie (https://yihui.org), 谢益辉, is a software engineer at [RStudio](https://www.rstudio.com).
     He earned his PhD from the Department of Statistics, Iowa State University.
     He has authored several R packages, such as **knitr**, **bookdown**, **blogdown**,
     **xaringan**, **DT**, and **tinytex**. He also co-authored a few other R packages,
@@ -8,10 +18,6 @@
     He has published a number of books, including _Dynamic Documents with R and knitr_,
     _bookdown: Authoring Books and Technical Documents with R Markdown_,
     _blogdown: Creating Websites with R Markdown_, _R Markdown: The Definitive Guide_,
-    and _R Markdown Cookbook_. He is the founder of the Capital of Statistics (https://cosx.org).
+    and _R Markdown Cookbook_. He is the founder of the Capital of Statistics (https://cosx.org), 其论坛形式为 https://d.cosx.org/.
     He initiated the Chinese R conference in 2008.
 
-- name: "Lucius Annaeus Seneca"
-  bio: >
-    Lucius Annaeus Seneca was a Hispano-Roman Stoic philosopher, statesman, dramatist,
-    and—in one work—satirist from the Silver Age of Latin literature.

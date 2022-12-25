@@ -1,5 +1,5 @@
 ---
-title: Home
+# title: Home
 menu:
   header:
     weight: 1
