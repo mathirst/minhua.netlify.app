@@ -24,8 +24,12 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 ## 关于本站
 分享一些数学和其他有趣的知识，大致列表如下：
 
+This is an inline equation: $V_{sphere} = \frac{4}{3}\pi r^3$,<br>
+followed by a display style equation:
 
-$ math $
+$$V_{sphere} = \frac{4}{3}\pi r^3$$
+
+这是行内 \\( V_{sphere} = \frac{4}{3}\pi r^3 \\) 的表达式。
 
 ### 数学 
 
