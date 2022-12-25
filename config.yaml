@@ -1,0 +1,69 @@
+baseurl: "https://minhua.netlify.app/"
+languageCode: "en-us"
+# defaultContentLanguage: "en"
+defaultContentLanguage: "zh"
+title: "稻年"
+theme: "hugo-prose"
+googleAnalytics: ""
+disqusShortname: "minhua-netlify"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+paginate: 2
+
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+
+outputs:
+  home: [html, rss, json]
+
+# some menu items were added via the `menu` option in YAML in posts
+menu:
+  header:
+    - name: 搜索
+      url: "#"
+      identifier: menu-search
+      weight: 4
+    - name: SSR订阅
+      url: "index.xml"
+  footer:
+    - name: 联系方式
+      url: "/404.html"
+      weight: 1
+    - name: 分类
+      url: "/categories/"
+      weight: 2
+      pre: "optional"
+    - name: 标签
+      url: "/tags/"
+      weight: 3
+      pre: "optional"
+    - name: 建议
+      url: "#"
+      weight: 4
+      identifier: "menu-edit"
+    - name: 回到页面顶部
+      url: "#"
+
+params:
+  homePosts: 6
+  mainSections: ["post", "work"]
+  editLink: "https://github.com/yihui/hugo-prose/edit/master/exampleSite/content/"
+  authorDelimiter: " / "
+  pageFeatures: [+sidenotes]
+  description: >
+    A website built through Hugo and blogdown with the hugo-prose theme.
+  footer: >
+    &copy; [Lucius Annaeus Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+    4 BC -- AD 65
+  license: >
+    Text and figures are licensed under [Creative Commons Attribution CC BY
+    4.0](https://creativecommons.org/licenses/by/4.0/). The source code is
+    licensed under MIT. The full source is available at
+    https://github.com/yihui/hugo-prose.
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
