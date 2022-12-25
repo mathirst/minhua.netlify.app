@@ -1,171 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Prose</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Hugo Prose</description>
+    <title>Tags on 稻年</title>
+    <link>https://minhua.netlify.app/tags/</link>
+    <description>Recent content in Tags on 稻年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://minhua.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death</title>
-      <link>/tags/death/</link>
+      <link>https://minhua.netlify.app/tags/death/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/death/</guid>
+      <guid>https://minhua.netlify.app/tags/death/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lucilius</title>
-      <link>/tags/lucilius/</link>
+      <link>https://minhua.netlify.app/tags/lucilius/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lucilius/</guid>
+      <guid>https://minhua.netlify.app/tags/lucilius/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seneca</title>
-      <link>/tags/seneca/</link>
+      <link>https://minhua.netlify.app/tags/seneca/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/seneca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Friendship</title>
-      <link>/tags/friendship/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/friendship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trust</title>
-      <link>/tags/trust/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/trust/</guid>
+      <guid>https://minhua.netlify.app/tags/seneca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>/tags/tutorial/</link>
+      <link>https://minhua.netlify.app/tags/tutorial/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tutorial/</guid>
+      <guid>https://minhua.netlify.app/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poverty</title>
-      <link>/tags/poverty/</link>
+      <link>https://minhua.netlify.app/tags/poverty/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/poverty/</guid>
+      <guid>https://minhua.netlify.app/tags/poverty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reading</title>
-      <link>/tags/reading/</link>
+      <link>https://minhua.netlify.app/tags/reading/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/reading/</guid>
+      <guid>https://minhua.netlify.app/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thinker</title>
-      <link>/tags/thinker/</link>
+      <link>https://minhua.netlify.app/tags/thinker/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thinker/</guid>
+      <guid>https://minhua.netlify.app/tags/thinker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wealth</title>
-      <link>/tags/wealth/</link>
+      <link>https://minhua.netlify.app/tags/wealth/</link>
       <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/wealth/</guid>
+      <guid>https://minhua.netlify.app/tags/wealth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nature</title>
-      <link>/tags/nature/</link>
+      <link>https://minhua.netlify.app/tags/nature/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nature/</guid>
+      <guid>https://minhua.netlify.app/tags/nature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time</title>
-      <link>/tags/time/</link>
+      <link>https://minhua.netlify.app/tags/time/</link>
       <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/time/</guid>
+      <guid>https://minhua.netlify.app/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>appendix</title>
-      <link>/tags/appendix/</link>
+      <link>https://minhua.netlify.app/tags/appendix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/appendix/</guid>
+      <guid>https://minhua.netlify.app/tags/appendix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>citation</title>
-      <link>/tags/citation/</link>
+      <link>https://minhua.netlify.app/tags/citation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/citation/</guid>
+      <guid>https://minhua.netlify.app/tags/citation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>menu</title>
-      <link>/tags/menu/</link>
+      <link>https://minhua.netlify.app/tags/menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/menu/</guid>
+      <guid>https://minhua.netlify.app/tags/menu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>numbered section</title>
-      <link>/tags/numbered-section/</link>
+      <link>https://minhua.netlify.app/tags/numbered-section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/numbered-section/</guid>
+      <guid>https://minhua.netlify.app/tags/numbered-section/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sidenote</title>
-      <link>/tags/sidenote/</link>
+      <link>https://minhua.netlify.app/tags/sidenote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sidenote/</guid>
+      <guid>https://minhua.netlify.app/tags/sidenote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TOC</title>
-      <link>/tags/toc/</link>
+      <link>https://minhua.netlify.app/tags/toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/toc/</guid>
+      <guid>https://minhua.netlify.app/tags/toc/</guid>
       <description></description>
     </item>
     

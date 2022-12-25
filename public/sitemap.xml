@@ -2,116 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/card/philosophy/</loc>
+    <loc>https://minhua.netlify.app/card/philosophy/</loc>
   </url><url>
-    <loc>/card/projects/</loc>
+    <loc>https://minhua.netlify.app/card/projects/</loc>
   </url><url>
-    <loc>/card/publications/</loc>
+    <loc>https://minhua.netlify.app/card/publications/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>https://minhua.netlify.app/post/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://minhua.netlify.app/post/2020/11/10/r-markdown-demo/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2020/11/10/r-markdown-demo/</loc>
+    <loc>https://minhua.netlify.app/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://minhua.netlify.app/categories/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/death/</loc>
+    <loc>https://minhua.netlify.app/tags/death/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/example/</loc>
+    <loc>https://minhua.netlify.app/categories/example/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/letter/</loc>
+    <loc>https://minhua.netlify.app/categories/letter/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2019/07/30/letter-4-on-the-terrors-of-death/</loc>
+    <loc>https://minhua.netlify.app/post/2019/07/30/letter-4-on-the-terrors-of-death/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/lucilius/</loc>
+    <loc>https://minhua.netlify.app/tags/lucilius/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/seneca/</loc>
+    <loc>https://minhua.netlify.app/tags/seneca/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://minhua.netlify.app/tags/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/friendship/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/2019/07/29/letter-3-on-true-and-false-friendship/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/trust/</loc>
-    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/essay/</loc>
+    <loc>https://minhua.netlify.app/categories/essay/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/work/essays/</loc>
+    <loc>https://minhua.netlify.app/work/essays/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tutorial/</loc>
+    <loc>https://minhua.netlify.app/tags/tutorial/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/work/</loc>
+    <loc>https://minhua.netlify.app/work/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/publication/</loc>
+    <loc>https://minhua.netlify.app/categories/publication/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/work/tragedies/</loc>
+    <loc>https://minhua.netlify.app/work/tragedies/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2016/02/14/letter-2-on-discursiveness-in-reading/</loc>
+    <loc>https://minhua.netlify.app/post/2016/02/14/letter-2-on-discursiveness-in-reading/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/poverty/</loc>
+    <loc>https://minhua.netlify.app/tags/poverty/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/reading/</loc>
+    <loc>https://minhua.netlify.app/tags/reading/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/thinker/</loc>
+    <loc>https://minhua.netlify.app/tags/thinker/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wealth/</loc>
+    <loc>https://minhua.netlify.app/tags/wealth/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/2015/07/23/letter-1-on-saving-time/</loc>
+    <loc>https://minhua.netlify.app/post/2015/07/23/letter-1-on-saving-time/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nature/</loc>
+    <loc>https://minhua.netlify.app/tags/nature/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/time/</loc>
+    <loc>https://minhua.netlify.app/tags/time/</loc>
     <lastmod>2015-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://minhua.netlify.app/official-demo/</loc>
   </url><url>
-    <loc>/tags/appendix/</loc>
+    <loc>https://minhua.netlify.app/tags/appendix/</loc>
   </url><url>
-    <loc>/card/</loc>
+    <loc>https://minhua.netlify.app/card/</loc>
   </url><url>
-    <loc>/tags/citation/</loc>
+    <loc>https://minhua.netlify.app/tags/citation/</loc>
   </url><url>
-    <loc>/categories/hugo/</loc>
+    <loc>https://minhua.netlify.app/categories/hugo/</loc>
   </url><url>
-    <loc>/tags/menu/</loc>
+    <loc>https://minhua.netlify.app/tags/menu/</loc>
   </url><url>
-    <loc>/tags/numbered-section/</loc>
+    <loc>https://minhua.netlify.app/tags/numbered-section/</loc>
   </url><url>
-    <loc>/tags/sidenote/</loc>
+    <loc>https://minhua.netlify.app/tags/sidenote/</loc>
   </url><url>
-    <loc>/sitemap/</loc>
+    <loc>https://minhua.netlify.app/categories/theme/</loc>
   </url><url>
-    <loc>/categories/theme/</loc>
+    <loc>https://minhua.netlify.app/tags/toc/</loc>
   </url><url>
-    <loc>/tags/toc/</loc>
+    <loc>https://minhua.netlify.app/sitemap/</loc>
+  </url><url>
+    <loc>https://minhua.netlify.app/about/</loc>
   </url>
 </urlset>
