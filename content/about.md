@@ -9,9 +9,10 @@ menu:
     weight: 4
 appendix:
   # acknowledgments: |
+disable_mathjax: false
    
 
-features: [+toc, +number_sections, +sidenotes, ]
+features: [+toc, +number_sections, +sidenotes, -citation]
 ---
 
 
@@ -23,6 +24,8 @@ features: [+toc, +number_sections, +sidenotes, ]
 ## 关于本站
 分享一些数学和其他有趣的知识，大致列表如下：
 
+
+$ math $
 
 ### 数学 
 
@@ -38,7 +41,7 @@ features: [+toc, +number_sections, +sidenotes, ]
 * 微分动力系统
 
 
-### LaTeX 
+### $LaTeX$
 
 * 宏的工作原理
 * tikz 示例整理
@@ -48,6 +51,7 @@ features: [+toc, +number_sections, +sidenotes, ]
 * 日程计划文档类
 * 文摘文档类
 * 词典文档类（利用 dbshow 宏包管理数据库）
+* 区间变换的包
 
 ### 读书笔记
 * 德国的现代化（李工真）
@@ -73,6 +77,7 @@ features: [+toc, +number_sections, +sidenotes, ]
 * R 语言与金融分析
 * 基本的命令行 
 * 基本的 git
+* 基本的 html 和 css
 
 
 ### 投机

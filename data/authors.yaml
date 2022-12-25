@@ -3,10 +3,10 @@
     稻年，数学系博士生，研究兴趣为数论、动力系统。
     喜欢一切有助于认识世界的事物。
 
-# - name: "Lucius Annaeus Seneca"
-#   bio: >
-#     Lucius Annaeus Seneca was a Hispano-Roman Stoic philosopher, statesman, dramatist,
-#     and—in one work—satirist from the Silver Age of Latin literature.
+- name: "Lucius Annaeus Seneca"
+  bio: >
+    Lucius Annaeus Seneca was a Hispano-Roman Stoic philosopher, statesman, dramatist,
+    and—in one work—satirist from the Silver Age of Latin literature.
 
 - name: "Yihui Xie"
   bio: >
