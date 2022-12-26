@@ -250,8 +250,9 @@ blockquote {
   /* auto 是我自己加的 */
   border: none;
   border-collapse: collapse;
-  width: 100%;
+  /* width: 100%; */
   table-layout: fixed;
+  width: 20px; 
   line-height: 24px;  
 }
 .article-list td { padding: 0; }
