@@ -46,7 +46,7 @@ menu:
 
 params:
   homePosts: 6
-  mainSections: ["post", "work"]
+  mainSections: ["math","post", "work"]
   editLink: "https://github.com/mathirst/minhua.netlify.io/edit/master/content/" # 注释掉就会去掉『欢迎修订』
   # "https://github.com/yihui/hugo-prose/edit/master/exampleSite/content/"
   # 我先把『引用本文』功能关了，在 工作目录/layouts/partials/appendix 里的 {{ partial "correction.html" . }} 后面的 if author 那段，有空再修补修补

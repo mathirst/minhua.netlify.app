@@ -1,8 +1,11 @@
 ---
 title: 一些数学资源
-# mathjax: true
-# abbrlink: 1764305188
 date: 2022-12-16 11:54:57
+lastmod: 2022-12-25
+slug: some-math-resources
+features: [+sticky_menu]
+toc-title: Outline
+draft: true
 # tags:
 # categories: 数学
 ---
