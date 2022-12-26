@@ -6,6 +6,8 @@ slug:  number-theory-and-primes
 features: [+sticky_menu]
 toc-title: Outline
 draft: true
+categories: 
+  - 数学
 ---
 
 一方面, 随着时代的发展, 如今的数论已经看似和素数毫无关系；另一方面, 研究素数仍然是当今数论的中心问题之一, 只不过披上了很多层外衣以至让初学者很难直接看到其间的联系. 

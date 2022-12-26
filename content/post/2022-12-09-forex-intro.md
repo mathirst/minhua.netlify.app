@@ -8,7 +8,6 @@ draft: true
 slug: forex-intro
 # tags:
 categories: 
-  - speculation
   - 投机
 categories_weight: 100
 
