@@ -5,6 +5,7 @@ date: '2017-06-13'
 categories:
   - Publication
   - Example
+  - Speculation
 slug: tragedies
 ---
 

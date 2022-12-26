@@ -19,10 +19,10 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 
 ## 关于我
 
-数学系博士生，研究兴趣为数论、动力系统。 喜欢一切有助于认识世界的事物。
+数学系博士生，研究兴趣为数论、动力系统。 对一切有助于认识世界的事物感兴趣。
 
 ## 关于本站
-分享一些数学和其他有趣的知识，大致列表如下：
+分享一些数学和其他有趣的知识与技术，大致列表如下：
 
 This is an inline equation: $V_{sphere} = \frac{4}{3}\pi r^3$,<br>
 followed by a display style equation:
@@ -31,31 +31,51 @@ $$V_{sphere} = \frac{4}{3}\pi r^3$$
 
 这是行内 \\( V_{sphere} = \frac{4}{3}\pi r^3 \\) 的表达式。
 
+<center>
+<script type="text/tikz">
+  \begin{tikzpicture}
+    \draw (0,0) circle (1in);
+  \end{tikzpicture}
+</script>
+</center>
+
+```tikzjax
+\begin{tikzpicture}
+   \draw (0,0) circle (1in);
+\end{tikzpicture}
+```
+
 ### 数学 
 
-* 黎曼面与代数曲线
-* 遍历论与熵
-* 区间交换变换与平坦曲面
-* 表示论
-* 李群和李代数
-* 模形式和自守形式
-* （复）代数几何
-* 朗兰兹纲领
-* 算术动力系统
-* 微分动力系统
+* 数论相关：
+  * 黎曼面与代数曲线
+  * （复）代数几何
+  * 表示论
+  * 李群和李代数
+  * 模形式和自守形式
+  * 朗兰兹纲领
+* 动力系统相关：
+  * 遍历论与（慢）熵
+  * 微分动力系统
+  * 区间交换变换与平坦曲面
+* 二者的交汇：
+  * 算术动力系统
+  * 算术统计
+
+更详细的内容可以参见[我感兴趣的数学](/post/2022/12/25/my-math-interests/)
 
 
-### $LaTeX$
+### $\LaTeX$
 
 * 宏的工作原理
-* tikz 示例整理
+* $TikZ$ 示例整理
 * 好的边注
 * 文档类和宏包的开发入门
 * 学习笔记文档类
 * 日程计划文档类
 * 文摘文档类
 * 词典文档类（利用 dbshow 宏包管理数据库）
-* 区间变换的包
+* 写区间变换的包，以支持各种示意图
 
 ### 读书笔记
 * 德国的现代化（李工真）
