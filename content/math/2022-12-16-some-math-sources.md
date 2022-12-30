@@ -7,7 +7,8 @@ features: [+sticky_menu]
 toc-title: Outline
 draft: true
 # tags:
-# categories: 数学
+categories: 
+  - 数学
 ---
 
 ## 中文
@@ -45,6 +46,7 @@ draft: true
   * Deligne 的 [Weil I](/materials/Deligne-Weil_I.pdf)，原文为法语，这是 Milne 的网站上的英文翻译
   * [EGA](https://github.com/ryankeleti/ega)（pdf），即格罗滕迪克划时代的 *Éléments de géométrie algébrique*
   * [SGA](https://thosgood.com/sga/sga-1/index.html)（网页版），即格罗滕迪克组织的 *Séminaire de Géométrie Algébrique du Bois Marie*
+  * [格罗滕迪克和 Serre 的通信](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Letters/GS.pdf)（英文），即 Grothendieck-Serre Correspondence
   * 黎曼的就职演说 [On the Hypotheses which lie at the Bases of Geometry](https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Geom/WKCGeom.html)（网页版），通篇几乎没有数学符号但却引领了现代几何（包括微分几何和代数几何）发展的奇文、雄文
   * 更多翻译可以参见这位兄弟的主页：[Tim Hosgood](https://thosgood.com/translations/)
 * Deligne 的 Weil II 没有找到英文翻译，不过有两个学习材料

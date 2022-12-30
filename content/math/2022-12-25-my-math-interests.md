@@ -6,6 +6,8 @@ slug: my-math-interests
 features: [+sticky_menu]
 toc-title: Outline
 draft: true
+categories: 
+  - 数学
 ---
 
 
