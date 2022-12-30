@@ -9,6 +9,7 @@ draft: true
 # tags:
 categories: 
   - 数学
+weight: 1
 ---
 
 ## 中文

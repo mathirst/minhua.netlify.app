@@ -6,7 +6,8 @@ title: "稻说"
 theme: "hugo-prose"
 googleAnalytics: ""
 disqusShortname: "minhua-netlify"
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", ] 
+# "/content/math-notes/fiber-bundles/_book/\\.md$"
 footnotereturnlinkcontents: "↩"
 paginate: 2
 
@@ -19,6 +20,9 @@ outputs:
 # some menu items were added via the `menu` option in YAML in posts
 menu:
   header:
+    # - name: 数学笔记
+    #   url: "/math-notes"
+    #   weight: 2
     - name: 搜索
       url: "#"
       identifier: menu-search
