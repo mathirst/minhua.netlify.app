@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title> 一些数学资源 | 稻说</title>
+    
+    
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link rel="stylesheet" href="/css/custom.css" />
+    
+
+
+<link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+<script src="https://tikzjax.com/v1/tikzjax.js"></script>
+<script>
+window.addEventListener("load", function(){
+  for (let element of document.getElementsByClassName("tikzjax")) {
+    let parent = element.parentNode;
+    let pparent = parent.parentNode;
+    let script = document.createElement('script'); script.type = 'text/tikz';
+    let box = document.createElement('div');
+    script.appendChild(document.createTextNode(element.textContent));
+    box.appendChild(script)
+    box.setAttribute("style","display:block;width:75%;text-align:'center';margin: 5px auto;");
+    pparent.replaceChild(box, parent);
+  }
+});
+</script> 
+
+
+<script async="" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/components/prism-core.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
+  </head>
+
+  <body class="draft">
+
+    <nav class="menu">
+    <ul>
+      <li class="left">
+        <a href="/"><span>稻说</span></a>
+      </li>
+      
+      <li>
+        <a href="/">首页</a>
+      </li>
+      
+      <li>
+        <a href="/sitemap/">本站结构</a>
+      </li>
+      
+      <li>
+        <a href="/about/">关于</a>
+      </li>
+      
+      <li id="menu-search">
+        <a href="/#">搜索</a>
+      </li>
+      
+      <li>
+        <a href="/index.xml">SSR订阅</a>
+      </li>
+      
+    </ul>
+    </nav>
+
+
+<div class="container single">
+<main>
+
+<div class="watermark">Draft</div>
+
+<div class="article-meta">
+  
+<h1><span class="title">一些数学资源</span></h1>
+
+
+<h3 class="date">创建于 2022-12-16  &nbsp; 最后修改于 2022-12-25</h3>
+
+<p class="terms">
+  
+  
+  
+  
+  
+</p>
+</div>
+
+
+<div class="article">
+<h2 id="中文">中文</h2>
+<!-- more -->
+<ul>
+<li><a href="https://www.bananaspace.org/">香蕉空间</a>：粗略来看，是清华17级几个学生主要发起并搭建的一个中文数学社区，对标 <a href="https://ncatlab.org/nlab/show/HomePage">$n$Lab</a>，内含有数学词条与讲义（都需要用户持续贡献）。
+<ul>
+<li>中间有过一段时间无法访问，估计（瞎猜）是初期运营，经验不足，导致域名过期</li>
+<li>一大好处是可以知道许多数学名词的中文译名</li>
+<li>主要开发者之一（怀疑没有之一）为<a href="https://people.maths.ox.ac.uk/bu/about/">卜辰璟</a>，香蕉空间中的<a href="https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:BCJ">主页</a>上列举了两个很不错的讲义： <a href="https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E7%A4%BA%E6%80%A7%E7%B1%BB">示性类</a>、<a href="https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%90%8C%E4%BC%A6%E4%BB%A3%E6%95%B0%E4%B8%8E%E5%90%8C%E8%B0%83%E4%BB%A3%E6%95%B0">同伦代数与同调代数</a></li>
+<li>唐珑珂的香蕉空间<a href="https://www.bananaspace.org/wiki/%E7%94%A8%E6%88%B7:%E6%95%B0%E5%AD%A6%E8%BF%B7">主页</a>列举了一些他认为有趣的内容，此外该站还有他参与写的讲义：Scholze 的<a href="https://www.bananaspace.org/wiki/%E8%AE%B2%E4%B9%89:%E5%87%9D%E8%81%9A%E6%80%81%E6%95%B0%E5%AD%A6">凝聚态数学</a></li>
+<li>开发了一个名为 <code>bTeX</code>的简单语言，用以生成网页</li>
+<li>期待未来成长为完善的中文数学社区</li>
+</ul>
+</li>
+</ul>
+<h2 id="英文">英文</h2>
+<p>英文内容其实很丰富，因为英文目前是做数学的主流语言，法语、德语、俄语的影响力都随着相应国力相对下降而下降。</p>
+<h3 id="数学学习问答讲义视频等">数学学习（问答、讲义、视频等）</h3>
+<ul>
+<li>
+<p><a href="https://math.stackexchange.com/">MSE</a>：问答社区，讨论课后习题</p>
+</li>
+<li>
+<p><a href="https://mathoverflow.net/">MO</a>：问答社区，讨论科研层次的问题</p>
+</li>
+<li>
+<p><a href="https://ncatlab.org/nlab/show/HomePage">$n$Lab</a>：词条和讲义，侧重于范畴论视角</p>
+</li>
+<li>
+<p><a href="https://swc-math.github.io/aws/index.html">AWM（亚利桑那冬校）</a>：视频和讲义，来自每年一期的五天高强度课程，从1998年持续至今，许多从事数论研究的人都参与过这个冬校（要么当学生，要么当 speaker）</p>
+</li>
+<li>
+<p><a href="http://www.numbertheory.org/ntw/">Number Theory Web</a>：数论会议、讲义、研究对象、研究人员等（很多内容有一定的主观性）</p>
+</li>
+<li>
+<p>Emerton 的<a href="http://www.math.uchicago.edu/~emerton/research.html#students">主页</a>：数论关心的一些问题</p>
+</li>
+<li>
+<p><a href="https://www.mathtube.org/">mathtube</a>：视频和讲义，来自<a href="https://www.pims.math.ca/">PIMS</a> （一个不太有名的学校『联盟』）举办的一些会议、短期课程</p>
+</li>
+<li>
+<p>一些名著的英文翻译（为防止原始链接失效，下面提供的都是本站的链接，原始链接见文末的参考）</p>
+<ul>
+<li>
+<p>Serre 的 <a href="/materials/Serre-FAC.pdf">FAC</a>，即 <em>Faisceaux algébriques cohérents</em>，系统发展了代数几何中的上同调理论</p>
+</li>
+<li>
+<p>Serre 的 <a href="/materials/Serre-GAGA.pdf">GAGA</a>，即 <em>Géométrie algébrique et géométrie analytique</em>，建立起了几何对象的代数结构与分析结构之间的密切联系</p>
+</li>
+<li>
+<p>Deligne 的 <a href="/materials/Deligne-Weil_I.pdf">Weil I</a>，原文为法语，这是 Milne 的网站上的英文翻译</p>
+</li>
+<li>
+<p><a href="https://github.com/ryankeleti/ega">EGA</a>（pdf），即格罗滕迪克划时代的 <em>Éléments de géométrie algébrique</em></p>
+</li>
+<li>
+<p><a href="https://thosgood.com/sga/sga-1/index.html">SGA</a>（网页版），即格罗滕迪克组织的 <em>Séminaire de Géométrie Algébrique du Bois Marie</em></p>
+</li>
+<li>
+<p>黎曼的就职演说 <a href="https://www.maths.tcd.ie/pub/HistMath/People/Riemann/Geom/WKCGeom.html">On the Hypotheses which lie at the Bases of Geometry</a>（网页版），通篇几乎没有数学符号但却引领了现代几何（包括微分几何和代数几何）发展的奇文、雄文</p>
+</li>
+<li>
+<p>更多翻译可以参见这位兄弟的主页：<a href="https://thosgood.com/translations/">Tim Hosgood</a></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Deligne 的 Weil II 没有找到英文翻译，不过有两个学习材料</p>
+<ul>
+<li>Bhatt 组织的研讨会<a href="/materials/Bhatt-Weil_II_Seminar.pdf">记录</a></li>
+<li>Katz 的 <a href="https://web.math.princeton.edu/~nmk/arizona34.pdf"><em>L</em>-Functions and Monodromy: Four Lectures on Weil II</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.jmilne.org/math/index.html">Milne</a> 的网站：<a href="https://www.jmilne.org/math/Books/index.html">书</a>、<a href="https://www.jmilne.org/math/CourseNotes/index.html">讲义</a>、<a href="https://www.jmilne.org/math/xnotes/index.html">短文</a>合集，以及一些诸如翻译、通信记录等其他内容的<a href="https://www.jmilne.org/math/Documents/index.html">存档</a></p>
+<ul>
+<li><a href="/materials/Milne-MF.pdf">模函数和模曲线（椭圆模曲线）</a>：有别于一般介绍模形式的书，并没有一上来就引入模形式的定义，而是先用较高的观点交代好有关的几个重要对象——<strong>赋环空间</strong>（ringed space）观点下的黎曼面、<strong>代数曲线</strong>观点下的黎曼面、<strong>紧黎曼面上的分析结构</strong>，当然也介绍了基本的<strong>群作用</strong>与相应商空间（轨道的集合）的结构，从而在引入模形式的概念时水到渠成，不至于一叶障目；同时还简要地阐明了模形式如何作为数论这门学科的研究对象，以及推广到志村簇（Shimura variety）的思路或者说动机为何。总之，这篇讲义，简洁而不失完备，清晰而不失观点，处理得很好。</li>
+<li><a href="http://jmilne.org/math/CourseNotes/lec.html">平展上同调讲义</a>：整理了证明 Weil 猜想所需要的相关知识，下学期（23 Spring）讨论班会学 Weil II，希望这本书有帮助。</li>
+</ul>
+</li>
+<li>
+<p><a href="http://www.fen.bilkent.edu.tr/~franz/LN/LN-ant.html">Lecture Notes on Algebraic Number Theory</a>：一些代数数论的讲义合集，粗略看了一下很多都不能访问，但其中还有一些少见的课程，比如 Chai 的朗兰兹纲领</p>
+</li>
+<li>
+<p>&hellip;待续&hellip;</p>
+</li>
+</ul>
+<h3 id="数学周边评述写作等">数学周边（评述、写作等）</h3>
+<ul>
+<li>
+<p>介绍格罗滕迪克：</p>
+<ul>
+<li><a href="http://grothendieckcircle.org/">Grothendieck Circle</a>：格罗滕迪克『大全』</li>
+<li>Cartier 的 <a href="/materials/Cartier-Grothendieck.pdf">A country of which nothing is known but the name: Grothendieck and “motives”</a></li>
+</ul>
+</li>
+<li>
+<p>介绍黎曼：</p>
+<ul>
+<li>
+<p><em>Physics Today</em> 的 <a href="https://physicstoday.scitation.org/doi/pdf/10.1063/1.3034057">The visionary ideas of Bernhard Riemann</a>：可以看到物理学家如何评价黎曼的贡献</p>
+<!-- Jaggi 发表在 -->
+</li>
+</ul>
+</li>
+<li>
+<p>其他数学家</p>
+<ul>
+<li><a href="https://plato.stanford.edu/entries/dedekind-foundations/">戴德金</a>（Richard Dedekind, 1831–1916）</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.maa.org/press/maa-reviews/the-unravelers-mathematical-snapshots">The unravelers: mathematical snapshots</a>：ISBN 9781568814414，内含许多有名数学家对数学的看法，很好的读物。例如最后一篇文章，Kontsevitch 写的 <em>Beyond Numbers</em> 里面有段很有趣的开头：</p>
+<blockquote>
+<p>Very often a mathematician considers his colleague from a different domain with disdain — what kind of a perverse joy can this guy find in his unmotivated and plainly boring subject? I’ve tried to learn the hidden beauty in various things, but still for many areas the source of interest is for me a complete mystery.</p>
+</blockquote>
+</li>
+<li>
+<p>数学史的一些材料：</p>
+<ul>
+<li><a href="https://people.math.harvard.edu/~mazur/papers/History.tool.pdf">History of Mathematics as a tool</a>：Mazur 在一个数学史讨论班上的讲稿，主要阐明为什么要关心数学史，即了解数学史如何能有助于数学研究</li>
+<li><a href="https://www.maths.tcd.ie/pub/HistMath/">The History of Mathematics</a>：由爱尔兰三一学院的一位教授整理，主要关于哈密尔顿、黎曼以及十六七世纪的数学</li>
+<li><a href="https://www.math.tamu.edu/~don.allen/history/m629_97a.html">Lectures on History of Mathematics</a>：最后一节 <a href="https://www.math.tamu.edu/~don.allen/history/infinity.pdf">The History of Infinity</a></li>
+</ul>
+</li>
+<li>
+<p>数学写作：</p>
+<ul>
+<li>
+<p><a href="https://faculty.math.illinois.edu/~r-ash">Ash</a> 的 <a href="https://faculty.math.illinois.edu/~r-ash/Remarks.pdf">Remarks on Expository Writing in Mathematics</a>，最后一段引起我强烈共鸣</p>
+<blockquote>
+<p>I hope to see a change in the reward structure and system of values at research-oriented universities so that teaching and expository writing become legitimate as a specialty. This will help to improve the current situation in which many advanced areas of mathematics are inaccessible to most students because no satisfactory exposition exists. I hope to see more mathematicians write lecture notes for their courses and post the results on the web for all to use.</p>
+</blockquote>
+</li>
+<li>
+<p><a href="https://sites.math.washington.edu/~lee/">Lee</a> 的 <a href="https://sites.math.washington.edu/~lee/Writing/writing-proofs.pdf">Some Remarks on Writing Mathematical Proofs</a>，至少此君写的 GTM 218（Intro to Smooth Manifolds）可读性很强</p>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="参考">参考</h2>
+<p>下面是正文提到的原始链接，如未特别标注，都是英文材料。</p>
+<ul>
+<li>Serre 的 <a href="https://achinger.impan.pl/fac/fac.pdf">FAC</a>（法文）</li>
+<li>Serre 的 <a href="https://web.archive.org/web/20180728222951/http://ms.mcmaster.ca/~arnoldt/Serre-GAGA.dvi">GAGA</a>（法文）</li>
+<li>Deligne 的 <a href="https://www.jmilne.org/math/Documents/DeligneWeilI.pdf">Weil I</a>（英文）、<a href="http://www.numdam.org/item/PMIHES_1974__43__273_0.pdf">Weil I</a>（法文）</li>
+<li>Deligne 的 <a href="http://www.numdam.org/item/PMIHES_1980__52__137_0.pdf">Weil II</a>（法文）</li>
+<li>Pierre Cartier 介绍格罗滕迪克的文章，<a href="http://xahlee.info/math/i/Alexander_Grothendieck_cartier.pdf">A country of which nothing is known but the name: Grothendieck and “motives”</a></li>
+<li>Bhatt 组织的 <a href="https://www.math.purdue.edu/~murayama/Weil%20II.pdf">Learning Seminar on Deligne’s Weil II Theorem</a></li>
+<li>Katz 的 <a href="https://web.math.princeton.edu/~nmk/arizona34.pdf"><em>L</em>-Functions and Monodromy: Four Lectures on Weil II</a></li>
+</ul>
+
+</div>
+</main>
+
+<section class="appendix">
+
+
+
+
+
+
+
+<div>
+  <div class="side side-left"><h3>重复使用</h3></div>
+  Text and figures are licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution CC BY 4.0</a>. The source code is licensed under MIT. The full source is available at <a href="https://github.com/mathirst/mathirst.github.io">https://github.com/mathirst/mathirst.github.io</a>.
+</div>
+
+
+
+<div>
+  <div class="side side-left"><h3>欢迎修订</h3></div>
+  
+  
+  
+    
+    
+  
+  如果您发现本文里含有任何错误（包括错别字和标点符号），欢迎<a href="https://github.com/mathirst/minhua.netlify.io/edit/master/content/math/2022-12-16-some-math-sources.md" id="edit-link">在本站的 GitHub 项目里提交修订意见。</a>
+</div>
+
+
+
+
+
+</section>
+
+
+
+<nav class="post-nav">
+  <span class="nav-next"></span>
+  &hercon;
+  <span class="nav-prev"><a href="/math/my-math-interests/" title=上一篇&#32;(新)>我的数学兴趣</a> &rarr;</span>
+</nav>
+
+
+
+
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//minhua-netlify.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var t = d.getElementById('disqus_thread');
+    var b = false, l = function(scroll) {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+      if (scroll) t.scrollIntoView();
+    }
+    s.onerror = function(e) {
+      if (sessionStorage.getItem('failure-note')) return;
+      t.innerText = 'Sorry, but you cannot make comments because Disqus failed to load for some reason. It is known to be blocked in China. If you are sure it is not blocked in your region, please refresh the page. 中国大陆地区读者需要翻墙才能发表评论。';
+      t.style.border = '1px dashed';
+      t.style.padding = '.5em';
+      t.style.background = 'lightyellow';
+      sessionStorage.setItem('failure-note', true);
+    };
+    
+    if (location.hash.match(/^#comment-[0-9]+$/)) return l(true);
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+</div>
+
+
+  <footer>
+  <script async src="//yihui.org/js/center-img.js"></script>
+
+
+
+<script src="//yihui.org/js/math-code.js"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+  });
+</script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+
+
+
+
+
+  <div class="footer">
+  
+  <ul class="copyright">
+    <li>© 稻年 2022 -</li>
+  </ul>
+  
+  <ul>
+    
+    <li>
+      <a href="/404.html">联系方式</a>
+    </li>
+    
+    <li class="optional">
+      <a href="/categories/">分类</a>
+    </li>
+    
+    <li class="optional">
+      <a href="/tags/">标签</a>
+    </li>
+    
+    <li id="menu-edit">
+      <a href="#">建议</a>
+    </li>
+    
+    <li>
+      <a href="#">回到页面顶部</a>
+    </li>
+    
+  </ul>
+  </div>
+  
+  </footer>
+  <script async src="/js/features.js" data-page-features="[[&#34;&#43;sticky_menu&#34;],[&#34;&#43;sidenotes&#34;],&#34;Outline&#34;]"></script>
+  </body>
+</html>
+

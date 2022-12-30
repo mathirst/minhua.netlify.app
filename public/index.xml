@@ -1,0 +1,155 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首页 on 稻说</title>
+    <link>https://minhua.netlify.app/</link>
+    <description>Recent content in 首页 on 稻说</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://minhua.netlify.app/" rel="self" type="application/rss+xml" />
+
+    
+      <item>
+        <title>Math-notes</title>
+        <link>https://minhua.netlify.app/math-notes/</link>
+        <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://minhua.netlify.app/math-notes/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>Maths</title>
+        <link>https://minhua.netlify.app/math/</link>
+        <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://minhua.netlify.app/math/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>Posts</title>
+        <link>https://minhua.netlify.app/post/</link>
+        <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://minhua.netlify.app/post/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>Cards</title>
+        <link>https://minhua.netlify.app/card/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://minhua.netlify.app/card/</guid>
+        <description>
+          
+        </description>
+      </item>
+    
+      <item>
+        <title>本站结构</title>
+        <link>https://minhua.netlify.app/sitemap/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://minhua.netlify.app/sitemap/</guid>
+        <description>
+          &lt;p&gt;Below is a full list of posts and pages on this website ordered by date.&lt;/p&gt;
+&lt;p&gt;下面按时间顺序列举了本站所有内容，包括数学、技术以及非数。&lt;/p&gt;
+
+        </description>
+      </item>
+    
+      <item>
+        <title>关于我</title>
+        <link>https://minhua.netlify.app/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>稻年</author>
+        <guid>https://minhua.netlify.app/about/</guid>
+        <description>
+          &lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;p&gt;数学系博士生，研究兴趣为数论、动力系统。 对一切有助于认识世界的事物感兴趣。&lt;/p&gt;
+&lt;h2 id=&#34;关于本站&#34;&gt;关于本站&lt;/h2&gt;
+&lt;p&gt;分享一些数学和其他有趣的知识与技术，大致列表如下：&lt;/p&gt;
+&lt;h3 id=&#34;数学&#34;&gt;数学&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数论相关：
+&lt;ul&gt;
+&lt;li&gt;黎曼面与代数曲线&lt;/li&gt;
+&lt;li&gt;（复）代数几何&lt;/li&gt;
+&lt;li&gt;表示论&lt;/li&gt;
+&lt;li&gt;李群和李代数&lt;/li&gt;
+&lt;li&gt;模形式和自守形式&lt;/li&gt;
+&lt;li&gt;朗兰兹纲领&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;动力系统相关：
+&lt;ul&gt;
+&lt;li&gt;遍历论与（慢）熵&lt;/li&gt;
+&lt;li&gt;微分动力系统&lt;/li&gt;
+&lt;li&gt;区间交换变换与平坦曲面&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;二者的交汇：
+&lt;ul&gt;
+&lt;li&gt;算术动力系统&lt;/li&gt;
+&lt;li&gt;算术统计&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;更详细的内容可以参见&lt;a href=&#34;https://minhua.netlify.app/math/my-math-interests/&#34;&gt;我感兴趣的数学&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;latex&#34;&gt;$\LaTeX$&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;宏的工作原理&lt;/li&gt;
+&lt;li&gt;$TikZ$ 示例整理&lt;/li&gt;
+&lt;li&gt;好的边注&lt;/li&gt;
+&lt;li&gt;文档类和宏包的开发入门&lt;/li&gt;
+&lt;li&gt;学习笔记文档类&lt;/li&gt;
+&lt;li&gt;日程计划文档类&lt;/li&gt;
+&lt;li&gt;文摘文档类&lt;/li&gt;
+&lt;li&gt;词典文档类（利用 dbshow 宏包管理数据库）&lt;/li&gt;
+&lt;li&gt;写区间变换的包，以支持各种示意图&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;读书笔记&#34;&gt;读书笔记&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;德国的现代化（李工真）&lt;/li&gt;
+&lt;li&gt;哲学史讲演录（黑格尔）&lt;/li&gt;
+&lt;li&gt;中国改革三部曲（吴敬琏）&lt;/li&gt;
+&lt;li&gt;金融学（黄达）&lt;/li&gt;
+&lt;li&gt;交易理论（科斯、布坎南）&lt;/li&gt;
+&lt;li&gt;制度变迁（诺斯）&lt;/li&gt;
+&lt;li&gt;教育心理学&lt;/li&gt;
+&lt;li&gt;亲密关系&lt;/li&gt;
+&lt;li&gt;社会心理学&lt;/li&gt;
+&lt;li&gt;政治学说史（萨拜因）&lt;/li&gt;
+&lt;li&gt;中共的治理与适应（海贝勒）&lt;/li&gt;
+&lt;li&gt;中国的经济现象（温铁军、吴敬琏、林毅夫、刘鹤、樊纲、黄奇帆、刘元春、张五常、周小川、萧灼基、王建）&lt;/li&gt;
+&lt;li&gt;日本的经济现象（前川春雄、深尾京司、白川方明、行天丰雄、青木昌彦、福田慎一）&lt;/li&gt;
+&lt;li&gt;美国的经济现象（沃尔克、伯克南）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;工具论&#34;&gt;工具论&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;文献管理：zotero + 坚果云&lt;/li&gt;
+&lt;li&gt;写博客需要知道的一点编程&lt;/li&gt;
+&lt;li&gt;笔记：notion&lt;/li&gt;
+&lt;li&gt;R 语言与金融分析&lt;/li&gt;
+&lt;li&gt;基本的命令行&lt;/li&gt;
+&lt;li&gt;基本的 git&lt;/li&gt;
+&lt;li&gt;基本的 html 和 css&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;投机&#34;&gt;投机&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;外汇交易&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maths on 稻说</title>
+    <link>https://minhua.netlify.app/math/</link>
+    <description>Recent content in Maths on 稻说</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://minhua.netlify.app/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数论与素数的联系</title>
+      <link>https://minhua.netlify.app/math/number-theory-and-primes/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/math/number-theory-and-primes/</guid>
+      <description>一方面, 随着时代的发展, 如今的数论已经看似和素数毫无关系；另一方面, 研究素数仍然是当今数论的中心问题之一, 只不过披上了很多层外衣以至让初学者很难直接看到其间的联系.
+联系一： $ p $ 是 $ \mathbb{Z} $ 中的素数, $\mathbb{Z}$ 是 $\mathbb{Q}$ 中的&amp;quot;整数&amp;quot; 这句话看似是废话, 但却是自伽罗瓦『发明』域扩张以来——除去庞加莱、格罗滕迪克发展的几何观点以外——近现代的代数学核心发展动力之一: 当我们遵循伽罗瓦的想法对 $\mathbb{Q}$ 作域扩张得到扩域 $ \mathbb{K} $ 后, 扩域 $ \mathbb{K} $ 中的整数是什么, 素数又是什么？
+Kummer (1810 – 1893)告诉了我们答案, 例如方程 $ x^2+1=0 $ 根为 $\pm \mathrm{i}$, 添加这两个根到有理数域中我们得到扩域 $ \mathbb{K} = \mathbb{Q}(\pm \mathrm{i}) = \mathbb{Q}(\mathrm{i})$, 那么相应的『整数』全体就是 $\mathbb{Z}[i]$, 即把根添进原来的整数全体 $ \mathbb{Z} $. Kummer 隐约意识到人们之前的那套关于数的系统在域扩张的框架下并不好用， 便把 $ \mathbb{Z}[i] $ 中的数称为“理想数” (ideal number). 接着, Dedekind (1831 – 1916) 引入了理想 (ideal) 的概念, 之后便是现在所熟知的抽象代数代数数论</description>
+    </item>
+    
+    <item>
+      <title>我的数学兴趣</title>
+      <link>https://minhua.netlify.app/math/my-math-interests/</link>
+      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/math/my-math-interests/</guid>
+      <description>总的来说, 我感兴趣的数学主要集中在两大领域——数论与动力系统, 前者所研究的问题而得名, 后者因看待问题的方式而得名, 二者同样都是极其庞大的领域.
+当然, 在某种意义上, 兴趣广泛是不成熟的体现, 因为这说明自己还没有真正进入科研状态, 无法体会到时间与精力的有限性. 换句话说, 从规律上来讲, 随着时间的推移, 兴趣的范围会逐渐缩小, 但我仍然在尽我所能来对抗或者延缓这种趋势.
+数论 数论是一门极其古老的学科, 其严格意义上的起源, 可以归功于古希腊时代欧几里得关于『素数有无穷多个』的经典证明, 继而是算术基本定理.
+人们对数字的初步认识, 可以追溯到上古的结绳计数时代, 届时人类的先祖第一次广泛使用了整数的概念. 所以不难理解会有人关心什么是数字、怎么更简单地表示数字这一类问题. 托欧几里得的福, 人们知道了素数是整数系统里的基本单元, 于是在那之后的很长一段时间里, 数论完全就等同于一门研究素数的学科.
+有趣的是, 一方面, 随着时代的发展, 如今的数论已经看似和素数毫无关系；另一方面, 研究素数仍然是当今数论的中心问题之一, 只不过披上了很多层外衣以至让初学者很难直接看到其间的联系. 这里不做展开, 详情参见数论与素数的联系.</description>
+    </item>
+    
+    <item>
+      <title>一些数学资源</title>
+      <link>https://minhua.netlify.app/math/some-math-resources/</link>
+      <pubDate>Fri, 16 Dec 2022 11:54:57 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/math/some-math-resources/</guid>
+      <description>中文 香蕉空间：粗略来看，是清华17级几个学生主要发起并搭建的一个中文数学社区，对标 $n$Lab，内含有数学词条与讲义（都需要用户持续贡献）。 中间有过一段时间无法访问，估计（瞎猜）是初期运营，经验不足，导致域名过期 一大好处是可以知道许多数学名词的中文译名 主要开发者之一（怀疑没有之一）为卜辰璟，香蕉空间中的主页上列举了两个很不错的讲义： 示性类、同伦代数与同调代数 唐珑珂的香蕉空间主页列举了一些他认为有趣的内容，此外该站还有他参与写的讲义：Scholze 的凝聚态数学 开发了一个名为 bTeX的简单语言，用以生成网页 期待未来成长为完善的中文数学社区 英文 英文内容其实很丰富，因为英文目前是做数学的主流语言，法语、德语、俄语的影响力都随着相应国力相对下降而下降。
+数学学习（问答、讲义、视频等） MSE：问答社区，讨论课后习题
+MO：问答社区，讨论科研层次的问题
+$n$Lab：词条和讲义，侧重于范畴论视角
+AWM（亚利桑那冬校）：视频和讲义，来自每年一期的五天高强度课程，从1998年持续至今，许多从事数论研究的人都参与过这个冬校（要么当学生，要么当 speaker）
+Number Theory Web：数论会议、讲义、研究对象、研究人员等（很多内容有一定的主观性）
+Emerton 的主页：数论关心的一些问题
+mathtube：视频和讲义，来自PIMS （一个不太有名的学校『联盟』）举办的一些会议、短期课程
+一些名著的英文翻译（为防止原始链接失效，下面提供的都是本站的链接，原始链接见文末的参考）
+Serre 的 FAC，即 Faisceaux algébriques cohérents，系统发展了代数几何中的上同调理论
+Serre 的 GAGA，即 Géométrie algébrique et géométrie analytique，建立起了几何对象的代数结构与分析结构之间的密切联系
+Deligne 的 Weil I，原文为法语，这是 Milne 的网站上的英文翻译
+EGA（pdf），即格罗滕迪克划时代的 Éléments de géométrie algébrique
+SGA（网页版），即格罗滕迪克组织的 Séminaire de Géométrie Algébrique du Bois Marie
+黎曼的就职演说 On the Hypotheses which lie at the Bases of Geometry（网页版），通篇几乎没有数学符号但却引领了现代几何（包括微分几何和代数几何）发展的奇文、雄文</description>
+    </item>
+    
+  </channel>
+</rss>

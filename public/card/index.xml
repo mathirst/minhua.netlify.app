@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cards on 稻说</title>
+    <link>https://minhua.netlify.app/card/</link>
+    <description>Recent content in Cards on 稻说</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://minhua.netlify.app/card/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>人</title>
+      <link>https://minhua.netlify.app/card/riemann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/card/riemann/</guid>
+      <description>黎曼</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://minhua.netlify.app/card/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/card/projects/</guid>
+      <description>Ten plays are attributed to Seneca, of which most likely eight were written by him. The plays stand in stark contrast to his philosophical works. With their intense emotions, and grim overall tone, the plays seem to represent the antithesis of Seneca&amp;rsquo;s Stoic beliefs. Up to the 16th century it was normal to distinguish between Seneca the moral philosopher and Seneca the dramatist as two separate people. Scholars have tried to spot certain Stoic themes: it is the uncontrolled passions that generate madness, ruination, and self-destruction.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://minhua.netlify.app/card/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/card/publications/</guid>
+      <description>Works attributed to Seneca include a dozen philosophical essays, one hundred and twenty-four letters dealing with moral issues, nine tragedies, and a satire, the attribution of which is disputed. His authorship of Hercules on Oeta has also been questioned.
+De Providentia (On providence) - addressed to Lucilius De Constantia Sapientis (On the Firmness of the Wise Person) - addressed to Serenus De Ira (On anger) – A study on the consequences and the control of anger - addressed to his brother Novatus Ad Marciam, De consolatione (To Marcia, On Consolation) – Consoles her on the death of her son De Vita Beata (On the Happy Life) - addressed to Gallio </description>
+    </item>
+    
+  </channel>
+</rss>

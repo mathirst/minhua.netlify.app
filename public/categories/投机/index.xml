@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>投机 on 稻说</title>
+    <link>https://minhua.netlify.app/categories/%E6%8A%95%E6%9C%BA/</link>
+    <description>Recent content in 投机 on 稻说</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://minhua.netlify.app/categories/%E6%8A%95%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>外汇交易简介</title>
+      <link>https://minhua.netlify.app/post/2022/12/09/forex-intro/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://minhua.netlify.app/post/2022/12/09/forex-intro/</guid>
+      <description>首先，外汇是一个风险很高的交易品种，不适合绝大多数交易者，需要一定的理论基础和交易经验。
+背景 我对外汇市场的接触，始于读到金融大鳄索罗斯的传说。
+索罗斯，一位臭名昭著的国际炒家，1992年狙击英镑，1994年狙击墨西哥比索，尤其是1997年单日重锉泰国的泰铢17%，紧接着一波带走和泰国并称『亚洲四小虎』的印尼、马来西亚、菲律宾，旋即引爆东南亚金融风暴，相继波及中国台湾、韩国、日本，造成了著名的亚洲金融危机。
+头次看到这个故事的我，初出茅庐，对市场的认识还很粗浅，很难想象一个人可以让一个国家的金融系统陷入混乱，甚至引爆一个地区的金融危机。在震惊之余，尽管我知道这种做法在任何意义上都是『不道德』的，但我也意识到这无疑表明，外汇市场蕴含了巨大的投机机会。
+出于对市场的敬畏，我一直没有真地尝试进入外汇市场。但出于一些原因，我认为较好的入场时机已经出现，遂决定参与外汇交易。
+不过很可惜，中文能搜到的外汇交易内容少之又少，本文就是提供一个基本的介绍。
+外汇市场简介 外汇市场，顾名思义，交易外汇的市场。其重要性可以从为此特意造的一个合成词中窥见一二：forex，即 foreign exchange，简写为 FX。正如股票价格由股市中无数参与其中的交易者共同决定一样，在外汇市场上的交易，同样决定了各国货币的相对价格，即汇率。
+这是一个极其庞大的市场，国际清算银行（BIS，Bank for International Settlements ）数据显示，2022年4月（BIS 统计每年4月的平均交易额以反映外汇市场的活跃程度），日均交易额高达7.5万亿美元，其中人民币日均交易额高达5千亿美元，而 A 股日均交易额只有在牛市阶段才能站上1万亿人民币的关口。其中，个人认为其庞大的交易额并非源于金融投机，而是跨国贸易的货币结算，而结算正是字面意思，即跨国公司贸易所需外汇由大型银行代理集中清算。
+由于地球上时刻有着有外汇交易需求的地方，从而外汇市场是工作日内24小时开放交易。采取的时区是代表『原点』的格林威治时间 UTC+0。（例如北京时间在东八区，即 UTC+8，所以 UTC+0就是北京时间减8小时）
+此外由于货币与主权直接挂钩，因此外汇市场不可能存在通常资本市场上的监管，也就是所谓的去中心化、一定程度上的匿名性。
+作为散户就不用了解那么具体外汇市场的运作机制了，更具体的内容可以参见 Investopedia - Forex Trading: A Beginner’s Guide。
+散户参与途径 作为散户如何参与呢？或许是出于外汇管制的原因，我在中文互联网一直没太查明白，后转用英文搜，马上便得到了结果。
+我也无意比较不同券商有什么区别，随手搜了个觉得还靠谱的就用了。
+首先需要一个美国的银行账户，checking 或者 saving 都行。
+然后选择一个名为 Forex、官网为 forex.com 的『券商』（即 Broker）。输入基本的税前税后收入情况后提交注册账户的申请，10秒就审核成功。
+接下来就可以考虑正式参与交易了。
+第一步，转钱进交易账户（account.forex.com）：点击右上角的 SUMMARY 或 FUNDING，都可以看到 Transfer Money from Bank (ACH) - Same day，转钱虽不是立即到账，但可以立即交易，可以理解为美国的银行系统处理业务很慢，但是为了方便大家交易，发起转账的时候，双方机构都登记了这一信息，他们都有充足的空闲资金来处理这些业务，所以机构先『垫款』，后续实际到账了再扣款。 第二步，进入交易界面（Web Trader）：点击 SUMMARY 后，继续点击右上角的 TRADE NOW。注意，在 forex 官网首页进入 Web Trader 会一直卡在登录页面，估计是出于安全考虑。 第三步，下单：『搜索产品』一栏输入 CNH，选择 USD/CNH；在走势图里右上方点击卖和买即可进行交易，先买后卖是做多，先卖后买是做空，默认是20倍杠杆。不同货币对（currency pair）的默认杠杆不同，全表可见 Margin Requirements。 交易的一些注意事项：</description>
+    </item>
+    
+  </channel>
+</rss>
