@@ -2,4 +2,6 @@
 .DS_Store
 .hugo_build.*
 .Rproj.user
+id_rsa
+id_rsa.pub
 # /content/math-notes
