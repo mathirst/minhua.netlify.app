@@ -2,4 +2,4 @@
 .DS_Store
 .hugo_build.*
 .Rproj.user
-/content/math-notes
+# /content/math-notes
