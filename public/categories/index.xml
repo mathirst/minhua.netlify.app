@@ -5,25 +5,6 @@
     <link>https://minhua.netlify.app/categories/</link>
     <description>Recent content in Categories on 稻说</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 25 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://minhua.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>数学</title>
-      <link>https://minhua.netlify.app/categories/%E6%95%B0%E5%AD%A6/</link>
-      <pubDate>Sun, 25 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://minhua.netlify.app/categories/%E6%95%B0%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>投机</title>
-      <link>https://minhua.netlify.app/categories/%E6%8A%95%E6%9C%BA/</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://minhua.netlify.app/categories/%E6%8A%95%E6%9C%BA/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://minhua.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

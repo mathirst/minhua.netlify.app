@@ -203,6 +203,13 @@ h3.side-left { text-align: right; }
   background: orange;
 }
 
+/* 文字竖排 */
+.onecn{
+  width: 20px;  
+ margin: 0 auto;  
+ line-height: 24px;  
+}
+
 /* misc elements */
 img, iframe, video { max-width: 100%; }
 iframe, video {
@@ -234,14 +241,19 @@ blockquote {
   border-bottom: 1px solid #ddd;
   margin: 5px 0px 10px;
 }
-.article-list .side-title { transform: rotate(90deg); }
-.article-list:nth-child(even):not(.post-card) .side-title { transform: rotate(-90deg); }
+.article-list .side-title 
+/* { transform: rotate(90deg); } */
+.article-list:nth-child(even):not(.post-card) .side-title 
+/* { transform: rotate(-90deg); } */
 .article-list table {
-  margin: 0;
+  margin: 0 auto; 
+  /* auto 是我自己加的 */
   border: none;
   border-collapse: collapse;
-  width: 100%;
+  /* width: 100%; */
   table-layout: fixed;
+  width: 20px; 
+  line-height: 24px;  
 }
 .article-list td { padding: 0; }
 .side-title { width: 3em; }

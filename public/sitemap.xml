@@ -2,54 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://minhua.netlify.app/card/riemann/</loc>
-  </url><url>
-    <loc>https://minhua.netlify.app/card/projects/</loc>
-  </url><url>
-    <loc>https://minhua.netlify.app/card/publications/</loc>
-  </url><url>
     <loc>https://minhua.netlify.app/categories/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math-notes/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math-notes/riemann-surfaces-and-alg-curves/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math/number-theory-and-primes/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/categories/%E6%95%B0%E5%AD%A6/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math/my-math-interests/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/math/some-math-resources/</loc>
-    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/post/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/categories/%E6%8A%95%E6%9C%BA/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/post/2022/12/09/forex-intro/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minhua.netlify.app/card/</loc>
   </url><url>
     <loc>https://minhua.netlify.app/tags/</loc>
   </url><url>
     <loc>https://minhua.netlify.app/sitemap/</loc>
   </url><url>
     <loc>https://minhua.netlify.app/about/</loc>
+  </url><url>
+    <loc>https://minhua.netlify.app/</loc>
+  </url><url>
+    <loc>https://minhua.netlify.app/notes-math-all/</loc>
   </url>
 </urlset>
