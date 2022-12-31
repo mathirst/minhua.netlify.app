@@ -13,8 +13,7 @@ appendix:
 disable_mathjax: false
 ---
 
+下面是正在写的一些笔记（尽量持续更新）.
 
-[纤维丛](/notes-math/fiber-bundles/_book/locally-trivial-fibrations.html)
-
-下面按时间顺序列举了本站所有内容，包括数学、技术以及非数。
+[纤维丛](/notes-math/fiber-bundles/_book/preface.html)
 

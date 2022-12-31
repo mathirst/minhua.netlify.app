@@ -5,7 +5,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="https://minhua.netlify.app/math-notes/">纤维丛</a></li>
+        <li><a href="https://minhua.netlify.app/notes-math/">纤维丛</a></li>
       after: |
         <li><a href="https://minhua.netlify.app/sitemap" target="blank">稻年 整理</a></li>
     # edit: https://github.com/rstudio/bookdown-demo/edit/master/%s

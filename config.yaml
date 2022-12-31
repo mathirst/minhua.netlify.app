@@ -6,7 +6,7 @@ title: "稻说"
 theme: "hugo-prose"
 googleAnalytics: ""
 disqusShortname: "minhua-netlify"
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "/content/math-notes/"] 
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "/content/notes-math/"] 
 # "/content/math-notes/fiber-bundles/_book/\\.md$"
 footnotereturnlinkcontents: "↩"
 paginate: 2
