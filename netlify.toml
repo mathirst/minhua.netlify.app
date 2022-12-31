@@ -6,14 +6,4 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
-[[redirects]]
-  from = "https://summerblog.netlify.app/*"
-  to = "https://www.lifeee.top/:splat"
-  force = true
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
 

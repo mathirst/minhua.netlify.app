@@ -1,6 +1,6 @@
 ---
 layout: notes-math
-title: 数学笔记合集
+title: 数学笔记
 # author: 稻年
 # categories: [Hugo, Theme]
 # tags: [menu, TOC, sidenote, appendix, citation, numbered section]
@@ -15,5 +15,6 @@ disable_mathjax: false
 
 下面是正在写的一些笔记（尽量持续更新）.
 
-[纤维丛](/notes-math/fiber-bundles/_book/preface.html)
+[纤维丛](https://bookdown.org/minhua/fiber-bundles/)
+
 
