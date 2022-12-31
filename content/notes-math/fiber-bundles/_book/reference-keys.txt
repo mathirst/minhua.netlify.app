@@ -1,3 +1,0 @@
-exm:preface-set-fiber
-exm:preface-covering-fiber
-locally-trivial-fibrations
