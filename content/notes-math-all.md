@@ -15,6 +15,7 @@ disable_mathjax: false
 
 下面是正在写的一些笔记（尽量持续更新）.
 
-[纤维丛](https://bookdown.org/minhua/fiber-bundles/)
+* [纤维丛](https://bookdown.org/minhua/fiber-bundles/)
+* [交换代数与代数几何](https://bookdown.org/minhua/ca-ag/)
 
 
