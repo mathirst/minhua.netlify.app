@@ -6,7 +6,7 @@ title: 数学笔记
 # tags: [menu, TOC, sidenote, appendix, citation, numbered section]
 menu:
   header:
-    name: 数学笔记合集
+    name: 数学笔记
     weight: 4
 appendix:
   # acknowledgments: |

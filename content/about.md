@@ -1,6 +1,7 @@
 ---
+# layout: sitemap
 title: 关于我
-author: 稻年
+# author: 稻年
 # categories: [Hugo, Theme]
 # tags: [menu, TOC, sidenote, appendix, citation, numbered section]
 menu:
@@ -30,14 +31,18 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 
 * 数论相关：
   * 黎曼面与代数曲线
-  * （复）代数几何
-  * 表示论
-  * 李群和李代数
+  * 复几何与（p 进）霍奇理论
+  * 交换代数、代数几何及其几何解释
+  * 交换代数进阶：tight closure
+  * 代数几何进阶：$p$-特征
+  * 傅立叶分析
+  * 表示论、李群和李代数
   * 模形式和自守形式
+  * 代数数论与类域论
   * 朗兰兹纲领
 * 动力系统相关：
   * 遍历论与（慢）熵
-  * 微分动力系统
+  * 微分动力系统与希尔伯特第 16 问题
   * 区间交换变换与平坦曲面
 * 二者的交汇：
   * 算术动力系统
@@ -52,11 +57,8 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 * $TikZ$ 示例整理
 * 好的边注
 * 文档类和宏包的开发入门
-* 学习笔记文档类
-* 日程计划文档类
-* 文摘文档类
-* 词典文档类（利用 dbshow 宏包管理数据库）
-* 写区间变换的包，以支持各种示意图
+* 文档类：学习笔记、日程计划、文摘、推荐信、词汇表（利用 `dbshow` 宏包管理数据库）
+* 宏包：区间变换（以支持各种示意图）
 
 ### 读书笔记
 * 德国的现代化（李工真）
@@ -69,7 +71,7 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 * 亲密关系
 * 社会心理学
 * 政治学说史（萨拜因）
-* 中共的治理与适应（海贝勒）
+* 中共的治理与适应（海贝勒等论文集）
 * 中国的经济现象（温铁军、吴敬琏、林毅夫、刘鹤、樊纲、黄奇帆、刘元春、张五常、周小川、萧灼基、王建）
 * 日本的经济现象（前川春雄、深尾京司、白川方明、行天丰雄、青木昌彦、福田慎一）
 * 美国的经济现象（沃尔克、伯克南）
@@ -79,10 +81,12 @@ features: [+toc, +number_sections, +sidenotes, -citation]
 * 文献管理：zotero + 坚果云
 * 写博客需要知道的一点编程
 * 笔记：notion
-* R 语言与金融分析
+* `R` 语言与金融分析
 * 基本的命令行 
-* 基本的 git
-* 基本的 html 和 css
+* 基本的 `git`
+* 基本的 `html` 和 `css`
+* `hugo` + `netlify` + `bookdown`
+* 基本的操作系统
 
 
 ### 投机
