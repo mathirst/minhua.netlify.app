@@ -1,7 +1,7 @@
 ---
 title: 外汇交易简介
-# mathjax: true
-# abbrlink: 3383396820
+features: [+sticky_menu]
+toc-title: Outline
 date: 2022-12-09 
 lastmod: 2022-12-16
 draft: true
@@ -10,7 +10,6 @@ slug: forex-intro
 categories: 
   - 投机
 categories_weight: 100
-
 ---
 
 首先，外汇是一个风险很高的交易品种，不适合绝大多数交易者，需要一定的理论基础和交易经验。
