@@ -23,9 +23,13 @@ categories_weight: 100
 </div> -->
 
 ## 初等数学（教书用）
+<div class="table-wrapper" markdown="block">
+
 | 英语         | 发音             | 中文            | 标签 |
 | ---------- | -------------- | ------------- | -- |
 | reciprocal | ruh·**si**·pruh·kl | 倒数（dao4 shu4） |    |
+
+</div>
 
 以后再补充吧。 另外有意思的一点是，美国人不学音标，如果谷歌 『reciprocal pronunciation』，看到的就是上面的一串乍一看和乱码一样的字符串，这就是美国人学习发音的方式——注音。稍微说一些简单的规则（下面的内容都是我口胡的，没有查过，只是看多了总结出的一些经验）
 
